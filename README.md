@@ -2,8 +2,6 @@
 
 This project demonstrates a **manual implementation of the ReAct (Reason + Act) agent pattern** using **LangChain**, **Ollama**, and a **custom tool execution loop**.
 
-Instead of relying on `AgentExecutor`, this example shows **how ReAct works internally**, giving you full control and understanding of the agent’s reasoning and tool usage.
-
 ---
 
 ## 🚀 Features
